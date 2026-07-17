@@ -1226,7 +1226,7 @@ def main():
              
 
         # ----== Drawing ==----------------------------------------------------------------------------------------------------------------------------------------------
-        pg.display.set_caption(f'-=Organ Simulation=-    -= Version Prototype =-      -= FPS: {clock.get_fps():.1f} =-      -={time.strftime('%H:%M:%S:')}=-') # i really liked the layout of my engine
+        pg.display.set_caption(f'-=Cy`s Pipe Organ Simulation=-    -= Version Demo =-      -= FPS: {clock.get_fps():.1f} =-      -={time.strftime('%H:%M:%S:')}=-') # i really liked the layout of my engine
         
         window.fill('#492d13') #fun fact: the whole color sceem is based off of a charactor i made which is a mechanical pipe organ
                                         #[x,y,w,h]
