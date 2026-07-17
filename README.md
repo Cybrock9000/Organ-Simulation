@@ -7,6 +7,9 @@ Download the latest version here:
 
 [**Download**]((https://github.com/Cybrock9000/Organ-Simulation/releases/tag/Demo))
 
+## SOME THINGS WILL CHANGE WHEN ITS RELEASED
+Like positioning of the 96 buttons and the addition of more
+
 ## Features
 
 - 16 waves to control
