@@ -1501,6 +1501,9 @@ def main():
         noiseb.draw(window)
         lengthb.draw(window)
         clearB.draw(window)
+        
+        tip = font.render('F1=Save,F2=Load',False,(0,0,0))
+        window.blit(tip,(1500,-5))
 
 
         pg.display.flip()
