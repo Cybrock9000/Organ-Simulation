@@ -1,6 +1,7 @@
 # Cy`s Pipe Organ Simulation #
 A Complex Program Designed to Make Sounds and Synths Written in Python/Pygame.
-<img width="1699" height="931" alt="image" src="https://github.com/user-attachments/assets/762ae373-ff5a-4654-908a-20323124734b" />
+<img width="1697" height="931" alt="Screenshot 2026-07-18 010620" src="https://github.com/user-attachments/assets/3629a812-661e-44d6-95ba-67e9aa722f35" />
+
 ## Download
 
 Download the latest version here:
