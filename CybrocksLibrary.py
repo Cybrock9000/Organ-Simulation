@@ -33,6 +33,7 @@ class Button:
     def move(self, pos):
         self.rect = self.image.get_rect(topleft = pos)
         
+        
     def new_image(self,image_path,pos,scalew = 1.0,scaleh = 1.0): #just a copy of the init
         self.image = pg.image.load(image_path).convert_alpha()
         

@@ -51,155 +51,157 @@ def main():
     noiseb = Button("resources/textures/noiseon.png", (1505, 50), 3, 3)
     lengthb = Button("resources/textures/speed2.png", (1505, 125), 3, 3)
     clearB = Button("resources/textures/clear.png", (1580, 50), 3, 3)
+    scrollB = Button("resources/textures/scroll.png", (30, 230), 3, 3)
+    reverbB = Button("resources/textures/reverbon.png", (1580, 125), 3, 3)
 
 
-    l1bUP = Button("resources/textures/up.png", (75, 250), 3, 3)
-    l1bDN = Button("resources/textures/down.png", (75, 350), 3, 3)
+    l1bUP = Button("resources/textures/up.png", (75+175, 250), 3, 3)
+    l1bDN = Button("resources/textures/down.png", (75+175, 350), 3, 3)
     
-    l2bUP = Button("resources/textures/up.png", (150, 250), 3, 3)
-    l2bDN = Button("resources/textures/down.png", (150, 350), 3, 3)
+    l2bUP = Button("resources/textures/up.png", (150+175, 250), 3, 3)
+    l2bDN = Button("resources/textures/down.png", (150+175, 350), 3, 3)
     
-    l3bUP = Button("resources/textures/up.png", (225, 250), 3, 3)
-    l3bDN = Button("resources/textures/down.png", (225, 350), 3, 3)
+    l3bUP = Button("resources/textures/up.png", (225+175, 250), 3, 3)
+    l3bDN = Button("resources/textures/down.png", (225+175, 350), 3, 3)
     
-    l4bUP = Button("resources/textures/up.png", (300, 250), 3, 3)
-    l4bDN = Button("resources/textures/down.png", (300, 350), 3, 3)
+    l4bUP = Button("resources/textures/up.png", (300+175, 250), 3, 3)
+    l4bDN = Button("resources/textures/down.png", (300+175, 350), 3, 3)
     
-    l5bUP = Button("resources/textures/up.png", (375, 250), 3, 3)
-    l5bDN = Button("resources/textures/down.png", (375, 350), 3, 3)
+    l5bUP = Button("resources/textures/up.png", (375+175, 250), 3, 3)
+    l5bDN = Button("resources/textures/down.png", (375+175, 350), 3, 3)
     
-    l6bUP = Button("resources/textures/up.png", (450, 250), 3, 3)
-    l6bDN = Button("resources/textures/down.png", (450, 350), 3, 3)
+    l6bUP = Button("resources/textures/up.png", (450+175, 250), 3, 3)
+    l6bDN = Button("resources/textures/down.png", (450+175, 350), 3, 3)
     
-    l7bUP = Button("resources/textures/up.png", (525, 250), 3, 3)
-    l7bDN = Button("resources/textures/down.png", (525, 350), 3, 3)
+    l7bUP = Button("resources/textures/up.png", (525+175, 250), 3, 3)
+    l7bDN = Button("resources/textures/down.png", (525+175, 350), 3, 3)
     
-    l8bUP = Button("resources/textures/up.png", (600, 250), 3, 3)
-    l8bDN = Button("resources/textures/down.png", (600, 350), 3, 3)
+    l8bUP = Button("resources/textures/up.png", (600+175, 250), 3, 3)
+    l8bDN = Button("resources/textures/down.png", (600+175, 350), 3, 3)
     
-    l9bUP = Button("resources/textures/up.png", (675, 250), 3, 3)
-    l9bDN = Button("resources/textures/down.png", (675, 350), 3, 3)
+    l9bUP = Button("resources/textures/up.png", (675+175, 250), 3, 3)
+    l9bDN = Button("resources/textures/down.png", (675+175, 350), 3, 3)
     
-    l10bUP = Button("resources/textures/up.png", (750, 250), 3, 3)
-    l10bDN = Button("resources/textures/down.png", (750, 350), 3, 3)
+    l10bUP = Button("resources/textures/up.png", (750+175, 250), 3, 3)
+    l10bDN = Button("resources/textures/down.png", (750+175, 350), 3, 3)
     
-    l11bUP = Button("resources/textures/up.png", (825, 250), 3, 3)
-    l11bDN = Button("resources/textures/down.png", (825, 350), 3, 3)
+    l11bUP = Button("resources/textures/up.png", (825+175, 250), 3, 3)
+    l11bDN = Button("resources/textures/down.png", (825+175, 350), 3, 3)
     
-    l12bUP = Button("resources/textures/up.png", (900, 250), 3, 3)
-    l12bDN = Button("resources/textures/down.png", (900, 350), 3, 3)
+    l12bUP = Button("resources/textures/up.png", (900+175, 250), 3, 3)
+    l12bDN = Button("resources/textures/down.png", (900+175, 350), 3, 3)
     
-    l13bUP = Button("resources/textures/up.png", (975, 250), 3, 3)
-    l13bDN = Button("resources/textures/down.png", (975, 350), 3, 3)
+    l13bUP = Button("resources/textures/up.png", (975+175, 250), 3, 3)
+    l13bDN = Button("resources/textures/down.png", (975+175, 350), 3, 3)
     
-    l14bUP = Button("resources/textures/up.png", (1050, 250), 3, 3)
-    l14bDN = Button("resources/textures/down.png", (1050, 350), 3, 3)
+    l14bUP = Button("resources/textures/up.png", (1050+175, 250), 3, 3)
+    l14bDN = Button("resources/textures/down.png", (1050+175, 350), 3, 3)
     
-    l15bUP = Button("resources/textures/up.png", (1125, 250), 3, 3)
-    l15bDN = Button("resources/textures/down.png", (1125, 350), 3, 3)
+    l15bUP = Button("resources/textures/up.png", (1125+175, 250), 3, 3)
+    l15bDN = Button("resources/textures/down.png", (1125+175, 350), 3, 3)
     
-    l16bUP = Button("resources/textures/up.png", (1200, 250), 3, 3)
-    l16bDN = Button("resources/textures/down.png", (1200, 350), 3, 3)
-    
-
-
-    da1bUP = Button("resources/textures/up.png", (75, 450), 3, 3)
-    da1bDN = Button("resources/textures/down.png", (75, 550), 3, 3)
-    
-    da2bUP = Button("resources/textures/up.png", (150, 450), 3, 3)
-    da2bDN = Button("resources/textures/down.png", (150, 550), 3, 3)
-    
-    da3bUP = Button("resources/textures/up.png", (225, 450), 3, 3)
-    da3bDN = Button("resources/textures/down.png", (225, 550), 3, 3)
-    
-    da4bUP = Button("resources/textures/up.png", (300, 450), 3, 3)
-    da4bDN = Button("resources/textures/down.png", (300, 550), 3, 3)
-    
-    da5bUP = Button("resources/textures/up.png", (375, 450), 3, 3)
-    da5bDN = Button("resources/textures/down.png", (375, 550), 3, 3)
-    
-    da6bUP = Button("resources/textures/up.png", (450, 450), 3, 3)
-    da6bDN = Button("resources/textures/down.png", (450, 550), 3, 3)
-    
-    da7bUP = Button("resources/textures/up.png", (525, 450), 3, 3)
-    da7bDN = Button("resources/textures/down.png", (525, 550), 3, 3)
-    
-    da8bUP = Button("resources/textures/up.png", (600, 450), 3, 3)
-    da8bDN = Button("resources/textures/down.png", (600, 550), 3, 3)
-    
-    da9bUP = Button("resources/textures/up.png", (675, 450), 3, 3)
-    da9bDN = Button("resources/textures/down.png", (675, 550), 3, 3)
-    
-    da10bUP = Button("resources/textures/up.png", (750, 450), 3, 3)
-    da10bDN = Button("resources/textures/down.png", (750, 550), 3, 3)
-    
-    da11bUP = Button("resources/textures/up.png", (825, 450), 3, 3)
-    da11bDN = Button("resources/textures/down.png", (825, 550), 3, 3)
-    
-    da12bUP = Button("resources/textures/up.png", (900, 450), 3, 3)
-    da12bDN = Button("resources/textures/down.png", (900, 550), 3, 3)
-    
-    da13bUP = Button("resources/textures/up.png", (975, 450), 3, 3)
-    da13bDN = Button("resources/textures/down.png", (975, 550), 3, 3)
-    
-    da14bUP = Button("resources/textures/up.png", (1050, 450), 3, 3)
-    da14bDN = Button("resources/textures/down.png", (1050, 550), 3, 3)
-    
-    da15bUP = Button("resources/textures/up.png", (1125, 450), 3, 3)
-    da15bDN = Button("resources/textures/down.png", (1125, 550), 3, 3)
-    
-    da16bUP = Button("resources/textures/up.png", (1200, 450), 3, 3)
-    da16bDN = Button("resources/textures/down.png", (1200, 550), 3, 3)
+    l16bUP = Button("resources/textures/up.png", (1200+175, 250), 3, 3)
+    l16bDN = Button("resources/textures/down.png", (1200+175, 350), 3, 3)
     
 
 
-    db1bUP = Button("resources/textures/up.png", (75, 650), 3, 3)
-    db1bDN = Button("resources/textures/down.png", (75, 750), 3, 3)
+    da1bUP = Button("resources/textures/up.png", (75+175, 450), 3, 3)
+    da1bDN = Button("resources/textures/down.png", (75+175, 550), 3, 3)
     
-    db2bUP = Button("resources/textures/up.png", (150, 650), 3, 3)
-    db2bDN = Button("resources/textures/down.png", (150, 750), 3, 3)
+    da2bUP = Button("resources/textures/up.png", (150+175, 450), 3, 3)
+    da2bDN = Button("resources/textures/down.png", (150+175, 550), 3, 3)
     
-    db3bUP = Button("resources/textures/up.png", (225, 650), 3, 3)
-    db3bDN = Button("resources/textures/down.png", (225, 750), 3, 3)
+    da3bUP = Button("resources/textures/up.png", (225+175, 450), 3, 3)
+    da3bDN = Button("resources/textures/down.png", (225+175, 550), 3, 3)
     
-    db4bUP = Button("resources/textures/up.png", (300, 650), 3, 3)
-    db4bDN = Button("resources/textures/down.png", (300, 750), 3, 3)
+    da4bUP = Button("resources/textures/up.png", (300+175, 450), 3, 3)
+    da4bDN = Button("resources/textures/down.png", (300+175, 550), 3, 3)
     
-    db5bUP = Button("resources/textures/up.png", (375, 650), 3, 3)
-    db5bDN = Button("resources/textures/down.png", (375, 750), 3, 3)
+    da5bUP = Button("resources/textures/up.png", (375+175, 450), 3, 3)
+    da5bDN = Button("resources/textures/down.png", (375+175, 550), 3, 3)
     
-    db6bUP = Button("resources/textures/up.png", (450, 650), 3, 3)
-    db6bDN = Button("resources/textures/down.png", (450, 750), 3, 3)
+    da6bUP = Button("resources/textures/up.png", (450+175, 450), 3, 3)
+    da6bDN = Button("resources/textures/down.png", (450+175, 550), 3, 3)
     
-    db7bUP = Button("resources/textures/up.png", (525, 650), 3, 3)
-    db7bDN = Button("resources/textures/down.png", (525, 750), 3, 3)
+    da7bUP = Button("resources/textures/up.png", (525+175, 450), 3, 3)
+    da7bDN = Button("resources/textures/down.png", (525+175, 550), 3, 3)
     
-    db8bUP = Button("resources/textures/up.png", (600, 650), 3, 3)
-    db8bDN = Button("resources/textures/down.png", (600, 750), 3, 3)
+    da8bUP = Button("resources/textures/up.png", (600+175, 450), 3, 3)
+    da8bDN = Button("resources/textures/down.png", (600+175, 550), 3, 3)
     
-    db9bUP = Button("resources/textures/up.png", (675, 650), 3, 3)
-    db9bDN = Button("resources/textures/down.png", (675, 750), 3, 3)
+    da9bUP = Button("resources/textures/up.png", (675+175, 450), 3, 3)
+    da9bDN = Button("resources/textures/down.png", (675+175, 550), 3, 3)
     
-    db10bUP = Button("resources/textures/up.png", (750, 650), 3, 3)
-    db10bDN = Button("resources/textures/down.png", (750, 750), 3, 3)
+    da10bUP = Button("resources/textures/up.png", (750+175, 450), 3, 3)
+    da10bDN = Button("resources/textures/down.png", (750+175, 550), 3, 3)
     
-    db11bUP = Button("resources/textures/up.png", (825, 650), 3, 3)
-    db11bDN = Button("resources/textures/down.png", (825, 750), 3, 3)
+    da11bUP = Button("resources/textures/up.png", (825+175, 450), 3, 3)
+    da11bDN = Button("resources/textures/down.png", (825+175, 550), 3, 3)
     
-    db12bUP = Button("resources/textures/up.png", (900, 650), 3, 3)
-    db12bDN = Button("resources/textures/down.png", (900, 750), 3, 3)
+    da12bUP = Button("resources/textures/up.png", (900+175, 450), 3, 3)
+    da12bDN = Button("resources/textures/down.png", (900+175, 550), 3, 3)
     
-    db13bUP = Button("resources/textures/up.png", (975, 650), 3, 3)
-    db13bDN = Button("resources/textures/down.png", (975, 750), 3, 3)
+    da13bUP = Button("resources/textures/up.png", (975+175, 450), 3, 3)
+    da13bDN = Button("resources/textures/down.png", (975+175, 550), 3, 3)
     
-    db14bUP = Button("resources/textures/up.png", (1050, 650), 3, 3)
-    db14bDN = Button("resources/textures/down.png", (1050, 750), 3, 3)
+    da14bUP = Button("resources/textures/up.png", (1050+175, 450), 3, 3)
+    da14bDN = Button("resources/textures/down.png", (1050+175, 550), 3, 3)
     
-    db15bUP = Button("resources/textures/up.png", (1125, 650), 3, 3)
-    db15bDN = Button("resources/textures/down.png", (1125, 750), 3, 3)
+    da15bUP = Button("resources/textures/up.png", (1125+175, 450), 3, 3)
+    da15bDN = Button("resources/textures/down.png", (1125+175, 550), 3, 3)
     
-    db16bUP = Button("resources/textures/up.png", (1200, 650), 3, 3)
-    db16bDN = Button("resources/textures/down.png", (1200, 750), 3, 3)
+    da16bUP = Button("resources/textures/up.png", (1200+175, 450), 3, 3)
+    da16bDN = Button("resources/textures/down.png", (1200+175, 550), 3, 3)
+    
+
+
+    db1bUP = Button("resources/textures/up.png", (75+175, 650), 3, 3)
+    db1bDN = Button("resources/textures/down.png", (75+175, 750), 3, 3)
+    
+    db2bUP = Button("resources/textures/up.png", (150+175, 650), 3, 3)
+    db2bDN = Button("resources/textures/down.png", (150+175, 750), 3, 3)
+    
+    db3bUP = Button("resources/textures/up.png", (225+175, 650), 3, 3)
+    db3bDN = Button("resources/textures/down.png", (225+175, 750), 3, 3)
+    
+    db4bUP = Button("resources/textures/up.png", (300+175, 650), 3, 3)
+    db4bDN = Button("resources/textures/down.png", (300+175, 750), 3, 3)
+    
+    db5bUP = Button("resources/textures/up.png", (375+175, 650), 3, 3)
+    db5bDN = Button("resources/textures/down.png", (375+175, 750), 3, 3)
+    
+    db6bUP = Button("resources/textures/up.png", (450+175, 650), 3, 3)
+    db6bDN = Button("resources/textures/down.png", (450+175, 750), 3, 3)
+    
+    db7bUP = Button("resources/textures/up.png", (525+175, 650), 3, 3)
+    db7bDN = Button("resources/textures/down.png", (525+175, 750), 3, 3)
+    
+    db8bUP = Button("resources/textures/up.png", (600+175, 650), 3, 3)
+    db8bDN = Button("resources/textures/down.png", (600+175, 750), 3, 3)
+    
+    db9bUP = Button("resources/textures/up.png", (675+175, 650), 3, 3)
+    db9bDN = Button("resources/textures/down.png", (675+175, 750), 3, 3)
+    
+    db10bUP = Button("resources/textures/up.png", (750+175, 650), 3, 3)
+    db10bDN = Button("resources/textures/down.png", (750+175, 750), 3, 3)
+    
+    db11bUP = Button("resources/textures/up.png", (825+175, 650), 3, 3)
+    db11bDN = Button("resources/textures/down.png", (825+175, 750), 3, 3)
+    
+    db12bUP = Button("resources/textures/up.png", (900+175, 650), 3, 3)
+    db12bDN = Button("resources/textures/down.png", (900+175, 750), 3, 3)
+    
+    db13bUP = Button("resources/textures/up.png", (975+175, 650), 3, 3)
+    db13bDN = Button("resources/textures/down.png", (975+175, 750), 3, 3)
+    
+    db14bUP = Button("resources/textures/up.png", (1050+175, 650), 3, 3)
+    db14bDN = Button("resources/textures/down.png", (1050+175, 750), 3, 3)
+    
+    db15bUP = Button("resources/textures/up.png", (1125+175, 650), 3, 3)
+    db15bDN = Button("resources/textures/down.png", (1125+175, 750), 3, 3)
+    
+    db16bUP = Button("resources/textures/up.png", (1200+175, 650), 3, 3)
+    db16bDN = Button("resources/textures/down.png", (1200+175, 750), 3, 3)
     
     # ----== Organ Var Inits ==----------------------------------------------------------------------------------------------------------------------------------------------
     sample_rate = 44100
@@ -211,7 +213,9 @@ def main():
     attacklen = 0.00002
     attackenabled = True
     attack_samples = int(sample_rate * attack_time)
+    release = 0.25
     fadeenabled = True
+    reverbenabled = False
     noise = True
     
     tuned = False
@@ -287,6 +291,8 @@ def main():
     
     #other vars
     testing = True
+    scroll = False
+    scrollen = 0
     
 
     # ----== Audio ==----------------------------------------------------------------------------------------------------------------------------------------------
@@ -1054,7 +1060,7 @@ def main():
         if saveB.is_pressed() and buttonDelay == False:
             
             click.play()
-            saveAudio(sample_rate,frequency,duration,amplitude,attack,attacklen,attackenabled,length1,dista1,distb1,length2,dista2,distb2,length3,dista3,distb3,length4,dista4,distb4,length5,dista5,distb5,length6,dista6,distb6,length7,dista7,distb7,length8,dista8,distb8,length9,dista9,distb9,length10,dista10,distb10,length11,dista11,distb11,length12,dista12,distb12,length13,dista13,distb13,length14,dista14,distb14,length15,dista15,distb15,length16,dista16,distb16,testing,tuned,fadeenabled,attack_time,attack_samples,noise)
+            saveAudio(sample_rate,frequency,duration,amplitude,attack,attacklen,attackenabled,length1,dista1,distb1,length2,dista2,distb2,length3,dista3,distb3,length4,dista4,distb4,length5,dista5,distb5,length6,dista6,distb6,length7,dista7,distb7,length8,dista8,distb8,length9,dista9,distb9,length10,dista10,distb10,length11,dista11,distb11,length12,dista12,distb12,length13,dista13,distb13,length14,dista14,distb14,length15,dista15,distb15,length16,dista16,distb16,testing,tuned,fadeenabled,attack_time,attack_samples,noise,release,reverbenabled)
             buttonDelay = True
             
         elif saveB.is_pressed() and buttonDelay == True:
@@ -1066,7 +1072,7 @@ def main():
             
             click.play()
             testing = True
-            saveAudio(sample_rate,frequency,duration,amplitude,attack,attacklen,attackenabled,length1,dista1,distb1,length2,dista2,distb2,length3,dista3,distb3,length4,dista4,distb4,length5,dista5,distb5,length6,dista6,distb6,length7,dista7,distb7,length8,dista8,distb8,length9,dista9,distb9,length10,dista10,distb10,length11,dista11,distb11,length12,dista12,distb12,length13,dista13,distb13,length14,dista14,distb14,length15,dista15,distb15,length16,dista16,distb16,testing,tuned,fadeenabled,attack_time,attack_samples,noise)
+            saveAudio(sample_rate,frequency,duration,amplitude,attack,attacklen,attackenabled,length1,dista1,distb1,length2,dista2,distb2,length3,dista3,distb3,length4,dista4,distb4,length5,dista5,distb5,length6,dista6,distb6,length7,dista7,distb7,length8,dista8,distb8,length9,dista9,distb9,length10,dista10,distb10,length11,dista11,distb11,length12,dista12,distb12,length13,dista13,distb13,length14,dista14,distb14,length15,dista15,distb15,length16,dista16,distb16,testing,tuned,fadeenabled,attack_time,attack_samples,noise,release,reverbenabled)
             testS = pg.mixer.Sound('output/test.wav')
             testing = False
             testS.play()
@@ -1080,13 +1086,25 @@ def main():
         if fadeB.is_pressed() and buttonDelay3 == False:
             
             click.play()
-            if fadeenabled == True:
+            buttonDelay3 = True
+            
+            if fadeenabled == False:
+                fadeenabled = True
+                release = 0.25
+                fadeB.new_image("resources/textures/fadeon.png", (1425, 50), 3, 3)
+            elif release == 0.25 and fadeenabled == True:
+                release = 0.5
+                fadeB.new_image("resources/textures/fadeon2.png", (1425, 50), 3, 3)
+            elif release == 0.5 and fadeenabled == True:
+                release = 1.5
+                fadeB.new_image("resources/textures/fadeon3.png", (1425, 50), 3, 3)
+            elif release == 1.5 and fadeenabled == True:
+                release = 2.5
+                fadeB.new_image("resources/textures/fadeon4.png", (1425, 50), 3, 3)
+            elif release == 2.5 and fadeenabled == True:
+                release = 0.25
                 fadeenabled = False
                 fadeB.new_image("resources/textures/fadeoff.png", (1425, 50), 3, 3)
-            else:
-                fadeenabled = True
-                fadeB.new_image("resources/textures/fadeon.png", (1425, 50), 3, 3)
-            buttonDelay3 = True
             
         elif fadeB.is_pressed() and buttonDelay3 == True:
             pass
@@ -1150,6 +1168,20 @@ def main():
         
         else: 
              buttonDelay6 = False
+             
+        if scrollB.is_pressed() and buttonDelay8 == False:
+            
+            click.play()
+            if scroll:
+                scroll = False
+            else:
+                scroll = True
+            buttonDelay8 = True
+            
+        elif scrollB.is_pressed() and buttonDelay8 == True:
+            pass
+        else: 
+             buttonDelay8 = False
              
         if clearB.is_pressed() and buttonDelay7 == False:
             
@@ -1239,10 +1271,19 @@ def main():
         pg.draw.rect(window,'#ffd700',[1200, 0, 500, 20])
         pg.draw.rect(window,'#ffd700',[1200, 200, 500, 20])
         
+
+        if scroll:
+                scrollen += 1
+        else:
+                scrollen = 0
+
         for n in range(1200): # drawing the wavelength across the screen
             phase = R.uniform(0, 2*M.pi)
             frequency *= 1 + 0.0005 * M.sin(2*M.pi*5)
-            sample = ((length1  * M.sin(dista1  * M.pi * frequency * distb1  * n / sample_rate)) +(length2  * M.sin(dista2  * M.pi * frequency * distb2  * n / sample_rate)) +(length3  * M.sin(dista3  * M.pi * frequency * distb3  * n / sample_rate)) +(length4  * M.sin(dista4  * M.pi * frequency * distb4  * n / sample_rate)) +(length5  * M.sin(dista5  * M.pi * frequency * distb5  * n / sample_rate)) +(length6  * M.sin(dista6  * M.pi * frequency * distb6  * n / sample_rate)) +(length7  * M.sin(dista7  * M.pi * frequency * distb7  * n / sample_rate)) +(length8  * M.sin(dista8  * M.pi * frequency * distb8  * n / sample_rate)) +(length9  * M.sin(dista9  * M.pi * frequency * distb9  * n / sample_rate)) +(length10 * M.sin(dista10 * M.pi * frequency * distb10 * n / sample_rate)) +(length11 * M.sin(dista11 * M.pi * frequency * distb11 * n / sample_rate)) +(length12 * M.sin(dista12 * M.pi * frequency * distb12 * n / sample_rate)) +(length13 * M.sin(dista13 * M.pi * frequency * distb13 * n / sample_rate)) +(length14 * M.sin(dista14 * M.pi * frequency * distb14 * n / sample_rate)) +(length15 * M.sin(dista15 * M.pi * frequency * distb15 * n / sample_rate)) +(length16 * M.sin(dista16 * M.pi * frequency * distb16 * n / sample_rate)))
+            
+            m = n + scrollen
+            
+            sample = ((length1  * M.sin(dista1  * M.pi * frequency * distb1  * m / sample_rate)) +(length2  * M.sin(dista2  * M.pi * frequency * distb2  * m / sample_rate)) +(length3  * M.sin(dista3  * M.pi * frequency * distb3  * m / sample_rate)) +(length4  * M.sin(dista4  * M.pi * frequency * distb4  * m / sample_rate)) +(length5  * M.sin(dista5  * M.pi * frequency * distb5  * m / sample_rate)) +(length6  * M.sin(dista6  * M.pi * frequency * distb6  * m / sample_rate)) +(length7  * M.sin(dista7  * M.pi * frequency * distb7  * m / sample_rate)) +(length8  * M.sin(dista8  * M.pi * frequency * distb8  * m / sample_rate)) +(length9  * M.sin(dista9  * M.pi * frequency * distb9  * m / sample_rate)) +(length10 * M.sin(dista10 * M.pi * frequency * distb10 * m / sample_rate)) +(length11 * M.sin(dista11 * M.pi * frequency * distb11 * m / sample_rate)) +(length12 * M.sin(dista12 * M.pi * frequency * distb12 * m / sample_rate)) +(length13 * M.sin(dista13 * M.pi * frequency * distb13 * m / sample_rate)) +(length14 * M.sin(dista14 * M.pi * frequency * distb14 * m / sample_rate)) +(length15 * M.sin(dista15 * M.pi * frequency * distb15 * m / sample_rate)) +(length16 * M.sin(dista16 * M.pi * frequency * distb16 * m / sample_rate)))
             sample = (sample * amplitude * 0.00025)
             sample = max(-32.768, min(32.767, int(sample)))
             pg.draw.circle(window,'red',(n,sample+100),1)
@@ -1251,246 +1292,246 @@ def main():
         l1bUP.draw(window)
         l1bDN.draw(window)
         l1bts = font.render(f'{length1}',False,(0,0,0))
-        window.blit(l1bts,(75,315))
+        window.blit(l1bts,(75+175,315))
         
         l2bUP.draw(window)
         l2bDN.draw(window)
         l2bts = font.render(f'{length2}',False,(0,0,0))
-        window.blit(l2bts,(150,315))
+        window.blit(l2bts,(150+175,315))
         
         l3bUP.draw(window)
         l3bDN.draw(window)
         l3bts = font.render(f'{length3}',False,(0,0,0))
-        window.blit(l3bts,(225,315))
+        window.blit(l3bts,(225+175,315))
         
         l4bUP.draw(window)
         l4bDN.draw(window)
         l4bts = font.render(f'{length4}',False,(0,0,0))
-        window.blit(l4bts,(300,315))
+        window.blit(l4bts,(300+175,315))
         
         l5bUP.draw(window)
         l5bDN.draw(window)
         l5bts = font.render(f'{length5}',False,(0,0,0))
-        window.blit(l5bts,(375,315))
+        window.blit(l5bts,(375+175,315))
         
         l6bUP.draw(window)
         l6bDN.draw(window)
         l6bts = font.render(f'{length6}',False,(0,0,0))
-        window.blit(l6bts,(450,315))
+        window.blit(l6bts,(450+175,315))
         
         l7bUP.draw(window)
         l7bDN.draw(window)
         l7bts = font.render(f'{length7}',False,(0,0,0))
-        window.blit(l7bts,(525,315))
+        window.blit(l7bts,(525+175,315))
         
         l8bUP.draw(window)
         l8bDN.draw(window)
         l8bts = font.render(f'{length8}',False,(0,0,0))
-        window.blit(l8bts,(600,315))
+        window.blit(l8bts,(600+175,315))
         
         l9bUP.draw(window)
         l9bDN.draw(window)
         l9bts = font.render(f'{length9}',False,(0,0,0))
-        window.blit(l9bts,(675,315))
+        window.blit(l9bts,(675+175,315))
         
         l10bUP.draw(window)
         l10bDN.draw(window)
         l10bts = font.render(f'{length10}',False,(0,0,0))
-        window.blit(l10bts,(750,315))
+        window.blit(l10bts,(750+175,315))
         
         l11bUP.draw(window)
         l11bDN.draw(window)
         l11bts = font.render(f'{length11}',False,(0,0,0))
-        window.blit(l11bts,(825,315))
+        window.blit(l11bts,(825+175,315))
         
         l12bUP.draw(window)
         l12bDN.draw(window)
         l12bts = font.render(f'{length12}',False,(0,0,0))
-        window.blit(l12bts,(900,315))
+        window.blit(l12bts,(900+175,315))
         
         l13bUP.draw(window)
         l13bDN.draw(window)
         l13bts = font.render(f'{length13}',False,(0,0,0))
-        window.blit(l13bts,(975,315))
+        window.blit(l13bts,(975+175,315))
         
         l14bUP.draw(window)
         l14bDN.draw(window)
         l14bts = font.render(f'{length14}',False,(0,0,0))
-        window.blit(l14bts,(1050,315))
+        window.blit(l14bts,(1050+175,315))
         
         l15bUP.draw(window)
         l15bDN.draw(window)
         l15bts = font.render(f'{length15}',False,(0,0,0))
-        window.blit(l15bts,(1125,315))
+        window.blit(l15bts,(1125+175,315))
         
         l16bUP.draw(window)
         l16bDN.draw(window)
         l16bts = font.render(f'{length16}',False,(0,0,0))
-        window.blit(l16bts,(1200,315))
+        window.blit(l16bts,(1200+175,315))
         
 
 
         da1bUP.draw(window)
         da1bDN.draw(window)
         da1bts = font.render(f'{dista1}',False,(0,0,0))
-        window.blit(da1bts,(75,515))
+        window.blit(da1bts,(75+175,515))
         
         da2bUP.draw(window)
         da2bDN.draw(window)
         da2bts = font.render(f'{dista2}',False,(0,0,0))
-        window.blit(da2bts,(150,515))
+        window.blit(da2bts,(150+175,515))
         
         da3bUP.draw(window)
         da3bDN.draw(window)
         da3bts = font.render(f'{dista3}',False,(0,0,0))
-        window.blit(da3bts,(225,515))
+        window.blit(da3bts,(225+175,515))
         
         da4bUP.draw(window)
         da4bDN.draw(window)
         da4bts = font.render(f'{dista4}',False,(0,0,0))
-        window.blit(da4bts,(300,515))
+        window.blit(da4bts,(300+175,515))
             
         da5bUP.draw(window)
         da5bDN.draw(window)
         da5bts = font.render(f'{dista5}',False,(0,0,0))
-        window.blit(da5bts,(375,515))
+        window.blit(da5bts,(375+175,515))
         
         da6bUP.draw(window)
         da6bDN.draw(window)
         da6bts = font.render(f'{dista6}',False,(0,0,0))
-        window.blit(da6bts,(450,515))
+        window.blit(da6bts,(450+175,515))
         
         da7bUP.draw(window)
         da7bDN.draw(window)
         da7bts = font.render(f'{dista7}',False,(0,0,0))
-        window.blit(da7bts,(525,515))
+        window.blit(da7bts,(525+175,515))
         
         da8bUP.draw(window)
         da8bDN.draw(window)
         da8bts = font.render(f'{dista8}',False,(0,0,0))
-        window.blit(da8bts,(600,515))
+        window.blit(da8bts,(600+175,515))
         
         da9bUP.draw(window)
         da9bDN.draw(window)
         da9bts = font.render(f'{dista9}',False,(0,0,0))
-        window.blit(da9bts,(675,515))
+        window.blit(da9bts,(675+175,515))
         
         da10bUP.draw(window)
         da10bDN.draw(window)
         da10bts = font.render(f'{dista10}',False,(0,0,0))
-        window.blit(da10bts,(750,515))
+        window.blit(da10bts,(750+175,515))
         
         da11bUP.draw(window)
         da11bDN.draw(window)
         da11bts = font.render(f'{dista11}',False,(0,0,0))
-        window.blit(da11bts,(825,515))
+        window.blit(da11bts,(825+175,515))
         
         da12bUP.draw(window)
         da12bDN.draw(window)
         da12bts = font.render(f'{dista12}',False,(0,0,0))
-        window.blit(da12bts,(900,515))
+        window.blit(da12bts,(900+175,515))
             
         da13bUP.draw(window)
         da13bDN.draw(window)
         da13bts = font.render(f'{dista13}',False,(0,0,0))
-        window.blit(da13bts,(975,515))
+        window.blit(da13bts,(975+175,515))
         
         da14bUP.draw(window)
         da14bDN.draw(window)
         da14bts = font.render(f'{dista14}',False,(0,0,0))
-        window.blit(da14bts,(1050,515))
+        window.blit(da14bts,(1050+175,515))
         
         da15bUP.draw(window)
         da15bDN.draw(window)
         da15bts = font.render(f'{dista15}',False,(0,0,0))
-        window.blit(da15bts,(1125,515))
+        window.blit(da15bts,(1125+175,515))
         
         da16bUP.draw(window)
         da16bDN.draw(window)
         da16bts = font.render(f'{dista16}',False,(0,0,0))
-        window.blit(da16bts,(1200,515))
+        window.blit(da16bts,(1200+175,515))
         
 
 
         db1bUP.draw(window)
         db1bDN.draw(window)
         db1bts = font.render(f'{distb1}',False,(0,0,0))
-        window.blit(db1bts,(75,715))
+        window.blit(db1bts,(75+175,715))
         
         db2bUP.draw(window)
         db2bDN.draw(window)
         db2bts = font.render(f'{distb2}',False,(0,0,0))
-        window.blit(db2bts,(150,715))
+        window.blit(db2bts,(150+175,715))
         
         db3bUP.draw(window)
         db3bDN.draw(window)
         db3bts = font.render(f'{distb3}',False,(0,0,0))
-        window.blit(db3bts,(225,715))
+        window.blit(db3bts,(225+175,715))
         
         db4bUP.draw(window)
         db4bDN.draw(window)
         db4bts = font.render(f'{distb4}',False,(0,0,0))
-        window.blit(db4bts,(300,715))
+        window.blit(db4bts,(300+175,715))
             
         db5bUP.draw(window)
         db5bDN.draw(window)
         db5bts = font.render(f'{distb5}',False,(0,0,0))
-        window.blit(db5bts,(375,715))
+        window.blit(db5bts,(375+175,715))
         
         db6bUP.draw(window)
         db6bDN.draw(window)
         db6bts = font.render(f'{distb6}',False,(0,0,0))
-        window.blit(db6bts,(450,715))
+        window.blit(db6bts,(450+175,715))
         
         db7bUP.draw(window)
         db7bDN.draw(window)
         db7bts = font.render(f'{distb7}',False,(0,0,0))
-        window.blit(db7bts,(525,715))
+        window.blit(db7bts,(525+175,715))
         
         db8bUP.draw(window)
         db8bDN.draw(window)
         db8bts = font.render(f'{distb8}',False,(0,0,0))
-        window.blit(db8bts,(600,715))
+        window.blit(db8bts,(600+175,715))
         
         db9bUP.draw(window)
         db9bDN.draw(window)
         db9bts = font.render(f'{distb9}',False,(0,0,0))
-        window.blit(db9bts,(675,715))
+        window.blit(db9bts,(675+175,715))
         
         db10bUP.draw(window)
         db10bDN.draw(window)
         db10bts = font.render(f'{distb10}',False,(0,0,0))
-        window.blit(db10bts,(750,715))
+        window.blit(db10bts,(750+175,715))
         
         db11bUP.draw(window)
         db11bDN.draw(window)
         db11bts = font.render(f'{distb11}',False,(0,0,0))
-        window.blit(db11bts,(825,715))
+        window.blit(db11bts,(825+175,715))
         
         db12bUP.draw(window)
         db12bDN.draw(window)
         db12bts = font.render(f'{distb12}',False,(0,0,0))
-        window.blit(db12bts,(900,715))
+        window.blit(db12bts,(900+175,715))
             
         db13bUP.draw(window)
         db13bDN.draw(window)
         db13bts = font.render(f'{distb13}',False,(0,0,0))
-        window.blit(db13bts,(975,715))
+        window.blit(db13bts,(975+175,715))
         
         db14bUP.draw(window)
         db14bDN.draw(window)
         db14bts = font.render(f'{distb14}',False,(0,0,0))
-        window.blit(db14bts,(1050,715))
+        window.blit(db14bts,(1050+175,715))
         
         db15bUP.draw(window)
         db15bDN.draw(window)
         db15bts = font.render(f'{distb15}',False,(0,0,0))
-        window.blit(db15bts,(1125,715))
+        window.blit(db15bts,(1125+175,715))
         
         db16bUP.draw(window)
         db16bDN.draw(window)
         db16bts = font.render(f'{distb16}',False,(0,0,0))
-        window.blit(db16bts,(1200,715))
+        window.blit(db16bts,(1200+175,715))
         
 
 
@@ -1501,9 +1542,19 @@ def main():
         noiseb.draw(window)
         lengthb.draw(window)
         clearB.draw(window)
+        scrollB.draw(window)
+        #reverbB.draw(window)
         
         tip = font.render('F1=Save,F2=Load',False,(0,0,0))
-        window.blit(tip,(1500,-5))
+        window.blit(tip,(1375,-5))
+        wh = font.render('Wave Height',False,(0,0,0))
+        window.blit(wh,(100,315))
+        ww = font.render('Wave Width',False,(0,0,0))
+        window.blit(ww,(100,515))
+        ww2 = font.render('Wave Width 2',False,(0,0,0))
+        window.blit(ww2,(100,715))
+        num = font.render('1           2           3           4           5           6          7          8          9          10          11         12         13         14         15        16',False,(75,10,10))
+        window.blit(num,(270,220))
 
 
         pg.display.flip()
@@ -1513,7 +1564,7 @@ def main():
 
 
 
-def saveAudio(sample_rate,frequency,duration,amplitude,attack,attacklen,attackenabled,length1,dista1,distb1,length2,dista2,distb2,length3,dista3,distb3,length4,dista4,distb4,length5,dista5,distb5,length6,dista6,distb6,length7,dista7,distb7,length8,dista8,distb8,length9,dista9,distb9,length10,dista10,distb10,length11,dista11,distb11,length12,dista12,distb12,length13,dista13,distb13,length14,dista14,distb14,length15,dista15,distb15,length16,dista16,distb16,test,tuned,fadeenabled,attack_time,attack_samples,noiseenabled): # that is a lot of parameters
+def saveAudio(sample_rate,frequency,duration,amplitude,attack,attacklen,attackenabled,length1,dista1,distb1,length2,dista2,distb2,length3,dista3,distb3,length4,dista4,distb4,length5,dista5,distb5,length6,dista6,distb6,length7,dista7,distb7,length8,dista8,distb8,length9,dista9,distb9,length10,dista10,distb10,length11,dista11,distb11,length12,dista12,distb12,length13,dista13,distb13,length14,dista14,distb14,length15,dista15,distb15,length16,dista16,distb16,test,tuned,fadeenabled,attack_time,attack_samples,noiseenabled,release,reverbenabled): # that is a lot of parameters
     phase = 0
     
     if test == True:
@@ -1523,6 +1574,7 @@ def saveAudio(sample_rate,frequency,duration,amplitude,attack,attacklen,attacken
                 wav.setsampwidth(2) #16 bit
                 wav.setframerate(sample_rate)
                 t = 0
+                j=0
                 if noiseenabled:
                     noise = np.random.normal(0,20,int(sample_rate * duration))
                 else:
@@ -1532,7 +1584,9 @@ def saveAudio(sample_rate,frequency,duration,amplitude,attack,attacklen,attacken
                     
                     frequency *= 1 + 0.0005 * M.sin(2*M.pi*5*t)
                     sample = ((length1  * M.sin(dista1  * M.pi * frequency * distb1  * n / sample_rate)) +(length2  * M.sin(dista2  * M.pi * frequency * distb2  * n / sample_rate)) +(length3  * M.sin(dista3  * M.pi * frequency * distb3  * n / sample_rate)) +(length4  * M.sin(dista4  * M.pi * frequency * distb4  * n / sample_rate)) +(length5  * M.sin(dista5  * M.pi * frequency * distb5  * n / sample_rate)) +(length6  * M.sin(dista6  * M.pi * frequency * distb6  * n / sample_rate)) +(length7  * M.sin(dista7  * M.pi * frequency * distb7  * n / sample_rate)) +(length8  * M.sin(dista8  * M.pi * frequency * distb8  * n / sample_rate)) +(length9  * M.sin(dista9  * M.pi * frequency * distb9  * n / sample_rate)) +(length10 * M.sin(dista10 * M.pi * frequency * distb10 * n / sample_rate)) +(length11 * M.sin(dista11 * M.pi * frequency * distb11 * n / sample_rate)) +(length12 * M.sin(dista12 * M.pi * frequency * distb12 * n / sample_rate)) +(length13 * M.sin(dista13 * M.pi * frequency * distb13 * n / sample_rate)) +(length14 * M.sin(dista14 * M.pi * frequency * distb14 * n / sample_rate)) +(length15 * M.sin(dista15 * M.pi * frequency * distb15 * n / sample_rate)) +(length16 * M.sin(dista16 * M.pi * frequency * distb16 * n / sample_rate)))
-                    
+                    if reverbenabled == True:
+                        sample = sample + (((length1  * M.sin(dista1  * M.pi * frequency * distb1  * n+500 / sample_rate)) +(length2  * M.sin(dista2  * M.pi * frequency * distb2  * n+500 / sample_rate)) +(length3  * M.sin(dista3  * M.pi * frequency * distb3  * n+500 / sample_rate)) +(length4  * M.sin(dista4  * M.pi * frequency * distb4  * n+500 / sample_rate)) +(length5  * M.sin(dista5  * M.pi * frequency * distb5  * n+500 / sample_rate)) +(length6  * M.sin(dista6  * M.pi * frequency * distb6  * n+500 / sample_rate)) +(length7  * M.sin(dista7  * M.pi * frequency * distb7  * n+500 / sample_rate)) +(length8  * M.sin(dista8  * M.pi * frequency * distb8  * n+500 / sample_rate)) +(length9  * M.sin(dista9  * M.pi * frequency * distb9  * n+500 / sample_rate)) +(length10 * M.sin(dista10 * M.pi * frequency * distb10 * n+500 / sample_rate)) +(length11 * M.sin(dista11 * M.pi * frequency * distb11 * n+500 / sample_rate)) +(length12 * M.sin(dista12 * M.pi * frequency * distb12 * n+500 / sample_rate)) +(length13 * M.sin(dista13 * M.pi * frequency * distb13 * n+500 / sample_rate)) +(length14 * M.sin(dista14 * M.pi * frequency * distb14 * n+500 / sample_rate)) +(length15 * M.sin(dista15 * M.pi * frequency * distb15 * n+500 / sample_rate)) +(length16 * M.sin(dista16 * M.pi * frequency * distb16 * n+500 / sample_rate)))*0.75)
+
                     if attackenabled:
                         if n < attack_samples:
                             envelope = n / attack_samples
@@ -1544,7 +1598,7 @@ def saveAudio(sample_rate,frequency,duration,amplitude,attack,attacklen,attacken
                     sample *= amplitude * 0.25 * envelope
                     sample += noise[n]*5
                     
-                    release = 0.25
+                    
                     if n > sample_rate * (duration - release) and fadeenabled:
                         fade = (sample_rate * duration - n) / (sample_rate * release)
                         sample *= fade
@@ -1581,7 +1635,7 @@ def saveAudio(sample_rate,frequency,duration,amplitude,attack,attacklen,attacken
                     
                     sample += noise[n]*5
                     
-                    release = 0.25
+
                     if n > sample_rate * (duration - release) and fadeenabled:
                         fade = (sample_rate * duration - n) / (sample_rate * release)
                         sample *= fade
@@ -1619,8 +1673,8 @@ def saveAudio(sample_rate,frequency,duration,amplitude,attack,attacklen,attacken
                     sample *= amplitude * 0.25 * envelope
                     
                     sample += noise[n]*5
-                    
-                    release = 0.25
+
+
                     if n > sample_rate * (duration - release) and fadeenabled:
                         fade = (sample_rate * duration - n) / (sample_rate * release)
                         sample *= fade
@@ -1657,7 +1711,7 @@ def saveAudio(sample_rate,frequency,duration,amplitude,attack,attacklen,attacken
                     
                     sample += noise[n]*5
                     
-                    release = 0.25
+
                     if n > sample_rate * (duration - release) and fadeenabled:
                         fade = (sample_rate * duration - n) / (sample_rate * release)
                         sample *= fade
